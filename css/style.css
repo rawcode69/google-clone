@@ -108,7 +108,7 @@ header nav {
 }
 
 #logo-container {
-    min-height: 290px;
+    height: 290px;
     display: flex;
     justify-content: center;
     align-items: end;
